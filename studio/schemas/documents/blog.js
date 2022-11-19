@@ -55,8 +55,8 @@ export default {
     },
     {
       title: 'Blog Body',
-      name: 'blog',
-      type: 'bodyText',
+      name: 'body',
+      type: 'richText',
     },
   ],
   preview: {

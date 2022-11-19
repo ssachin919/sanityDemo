@@ -9,7 +9,7 @@ import author from './documents/author';
 
 // import custom objects
 import customImage from './objects/customImage';
-import bodyText from './objects/bodyText';
+import richText from './objects/richText';
 import customCode from './objects/customCode';
 import excerptText from './objects/excerptText';
 import category from './documents/category';
@@ -26,7 +26,7 @@ export default createSchema({
 
     // objects
     customImage,
-    bodyText,
+    richText,
     customCode,
     excerptText,
   ]),
